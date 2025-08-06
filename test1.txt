@@ -6,3 +6,4 @@ add line
 commit test
 new branch line
 what
+new line
